@@ -12,7 +12,6 @@ import { BreakPointProps } from "types/responsive";
 import { createResponsiveStyle } from "lib/responsive";
 import { ColorType } from "types/color";
 import { animationMixin, AnimationProps } from "mixins/animation";
-import { theme } from "theme";
 
 type VariantMapping = { [key in VariantType]: string };
 
