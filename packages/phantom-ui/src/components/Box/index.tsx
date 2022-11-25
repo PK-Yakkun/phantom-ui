@@ -16,8 +16,8 @@ import {
   AnimationProps,
   boxShadowMixin,
   boxShadowProps,
-} from "../../mixins";
-import { AllEventType } from "../../types";
+} from "mixins";
+import { AllEventType } from "types/events";
 import { ElementType, RefObject } from "react";
 
 export type BoxStyleProps = Partial<LayoutProps> &
