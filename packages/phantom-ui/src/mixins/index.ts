@@ -2,7 +2,6 @@ export * from "./animation";
 export * from "./background";
 export * from "./border";
 export * from "./grid";
-export * from "./hover";
 export * from "./layout";
 export * from "./opacity";
 export * from "./position";
