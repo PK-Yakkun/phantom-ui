@@ -47,6 +47,42 @@ export const fonts = {
       lineH: "1",
     },
   },
+  h4: {
+    sm: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+    md: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+  },
+  h5: {
+    sm: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+    md: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+  },
+  h6: {
+    sm: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+    md: {
+      size: "16px",
+      weight: "700",
+      lineH: "1",
+    },
+  },
   body: {
     sm: {
       size: "16px",
