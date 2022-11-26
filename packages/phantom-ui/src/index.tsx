@@ -6,6 +6,6 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <>a</>
+    <>Phantom UI Develop Page</>
   </React.StrictMode>
 );
