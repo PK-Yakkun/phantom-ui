@@ -2,6 +2,7 @@
   "name": "@pk_yakkun/phantom-ui",
   "version": "0.0.1",
   "private": false,
+  "author": "PK Yakkun",
   "description": "UI library that collects the basics of UI without substance.",
   "main": "./src/phantom-ui/index.ts",
   "keywords": [
