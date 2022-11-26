@@ -1,5 +1,5 @@
 {
-  "name": "phantom-ui",
+  "name": "@pui/phantom-ui",
   "version": "0.0.1",
   "private": false,
   "description": "UI library that collects the basics of UI without substance.",
